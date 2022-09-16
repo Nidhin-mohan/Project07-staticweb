@@ -24,6 +24,9 @@ nav{
     font-weight: 500;
     color: #868787;
 }
+i{
+    display: none;
+}
 .active-item{
     color: #FE7B59;
     font-weight:800;
