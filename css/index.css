@@ -168,3 +168,86 @@ h4{
 }
 
 
+@media (max-width:480px) {
+    nav{
+    display: flex;
+    margin: 40px 40px;
+
+}
+
+.nav-items{
+    display:none;
+    gap: 80px;
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 15px;
+    margin-left: 550px;
+    
+
+}
+
+ nav  img:last-child{
+    display: none;
+    margin-left: 100px;
+}
+.intro-section{
+    display: flex;
+    flex-direction:column-reverse
+}
+.intro-section{
+    padding: 0px 40px;
+}
+.left-section{
+    width: 90%;
+
+}
+.intro-section{
+    padding: 0px 40px;
+}
+
+.text{
+    color: #d4c5c5;
+    margin-top: 20px;
+   padding-right: 00px;
+   text-align: center;
+} 
+.action-btns{
+   
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 900;
+    text-shadow: 50px;
+    color: #000000;
+}
+.sub-headlines{
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 0px;
+     
+}
+
+.right-section{
+    margin-top: 0px;
+    display: none;
+
+}
+.headphone-div{
+    position: relative;
+    top: -350px;
+    width: 200px;
+  
+   
+}
+
+
+.headphone-div :last-child{
+    width: 300px;
+}
+
+}
